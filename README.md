@@ -1,5 +1,3 @@
-# Group_triangulation
-
 main.R : main function to carry out the computation for feature extraction over triangulation
 
 ancillary.R : functions that are sourced into the main function
